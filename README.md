@@ -1,5 +1,5 @@
 
-**Ignews **
+** Ignews **
 - Criação de uma pagina de assinatura de conteudos.
 
 **Rodar o projeto**
