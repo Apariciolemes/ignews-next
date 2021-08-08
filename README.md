@@ -1,6 +1,6 @@
 
 ## Ignews
-- Criação de uma pagina de assinatura de conteudos.
+- Criação de uma pagina de assinatura de conteúdos.
 
 **Rodar o projeto**
 
@@ -12,12 +12,8 @@ Ao clonar o projeto abra o terminal e execute os seguintes comandos:
 
 **Funcionalidades**
 
-- Adicionar um novo produto ao carrinho;
-- Remover um produto do carrinho;
-- Alterar a quantidade de um produto no carrinho;
-- Cálculo dos preços sub-total e total do carrinho;
-- Validação de estoque;
-- Exibição de mensagens de erro;
+- Assinatura de conteúdo mensal;
+- Autenticação com Github;
 - Entre outros.
 
 **O que foi utilizado no desenvolvimento deste projeto?**
@@ -29,6 +25,8 @@ Ao clonar o projeto abra o terminal e execute os seguintes comandos:
 - SSG (Static Site Generation)
 - SSR (Server Side Rendering)
 - Next Auth com Github
+- Stripe (Ferramenta de Pagamentos)
+- FaunaDB
 
  
 ## Showcase
